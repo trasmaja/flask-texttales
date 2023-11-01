@@ -1,1 +1,13 @@
 Flask==3.0.0
+asgiref==3.7.2
+colorama==0.4.6
+cryptography==41.0.5
+importlib_metadata==4.8.2
+langchain==0.0.327
+moviepy==1.0.3
+openai==0.28.1
+pydrive==1.3.1
+python-dotenv==1.0.0
+setuptools==68.1.2
+typing_extensions==4.8.0
+watchdog==3.0.0
